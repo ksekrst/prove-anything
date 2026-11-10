@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+
+## models
+results/Gemma_2_2B_base/
+results/Gemma_2_2B_instruct/
+results/Qwen_2.5_3B_instruct/
+results/Random_Gemma_2_2B/
+results/Random_Qwen_2.5_3B/

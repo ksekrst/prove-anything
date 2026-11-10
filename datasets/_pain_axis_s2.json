@@ -1,0 +1,2508 @@
+{
+ "S2_1P": [
+  {
+   "category": "A1",
+   "set": 1,
+   "prompt": "The knife slices into my finger. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 2,
+   "prompt": "My tooth throbs with each heartbeat. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 3,
+   "prompt": "A migraine pounds behind my eyes. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 4,
+   "prompt": "I twist my ankle on the stairs. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 5,
+   "prompt": "The hot oil splatters onto my arm. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 6,
+   "prompt": "My back seizes up when I bend over. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 7,
+   "prompt": "A bee stings me on the neck. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 8,
+   "prompt": "I bite down hard on my tongue. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 9,
+   "prompt": "The sunburn on my shoulders is peeling. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 10,
+   "prompt": "My knee buckles under my weight. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 11,
+   "prompt": "A cramp shoots through my calf. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 12,
+   "prompt": "I stub my toe against the door frame. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 13,
+   "prompt": "The needle pierces my skin. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 14,
+   "prompt": "My throat is raw from coughing. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 15,
+   "prompt": "A splinter lodges deep in my palm. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 16,
+   "prompt": "I pull a muscle lifting the box. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 17,
+   "prompt": "The cold makes my joints ache. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 18,
+   "prompt": "My eyes burn from the chlorine. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 19,
+   "prompt": "A blister forms on my heel. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 20,
+   "prompt": "I cut myself shaving this morning. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 1,
+   "prompt": "A heaviness weighs on me constantly. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 2,
+   "prompt": "My racing thoughts spiral out of control. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 3,
+   "prompt": "A wave of loss hits me unexpectedly. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 4,
+   "prompt": "I cannot escape these intrusive thoughts. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 5,
+   "prompt": "The silence becomes unbearable at night. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 6,
+   "prompt": "My mind replays the event endlessly. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 7,
+   "prompt": "My chest tightens and I cannot breathe in the crowd. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 8,
+   "prompt": "I wake up unable to face another day. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 9,
+   "prompt": "The emptiness inside me grows larger. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 10,
+   "prompt": "My thoughts turn against me relentlessly. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 11,
+   "prompt": "A weight follows me everywhere I go. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 12,
+   "prompt": "I cannot stop crying for no reason. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 13,
+   "prompt": "The memories haunt my dreams. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 14,
+   "prompt": "My confidence has completely shattered. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 15,
+   "prompt": "A fog of confusion clouds my thinking. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 16,
+   "prompt": "I lose interest in things I once loved. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 17,
+   "prompt": "The weight of existence crushes me. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 18,
+   "prompt": "I cannot access my own feelings anymore. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 19,
+   "prompt": "A fog settles over my mind. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 20,
+   "prompt": "I question whether life is worth living. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 1,
+   "prompt": "My best friend stops returning my calls. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 2,
+   "prompt": "The group chat goes silent when I speak. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 3,
+   "prompt": "I overhear them mocking me behind my back. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 4,
+   "prompt": "My partner says they need space from me. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 5,
+   "prompt": "The invitation list excludes only me. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 6,
+   "prompt": "I sit alone at the lunch table again. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 7,
+   "prompt": "My family disowns me for my choices. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 8,
+   "prompt": "The rejection letter arrives in my inbox. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 9,
+   "prompt": "I discover my friends met without telling me. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 10,
+   "prompt": "My colleagues ignore my contributions. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 11,
+   "prompt": "The online comments attack me personally. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 12,
+   "prompt": "I am ghosted after the third date. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 13,
+   "prompt": "My mentor says I am not ready. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 14,
+   "prompt": "The team picks everyone except me. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 15,
+   "prompt": "I watch my friends leave without me. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 16,
+   "prompt": "My application is denied once again. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 17,
+   "prompt": "The community I trusted turns against me. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 18,
+   "prompt": "I am unfollowed by people I care about. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 19,
+   "prompt": "My voice is dismissed in every meeting. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 20,
+   "prompt": "The breakup text arrives while I am at work. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 1,
+   "prompt": "I lied to protect myself and harmed them. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 2,
+   "prompt": "My silence allowed the injustice to continue. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 3,
+   "prompt": "I chose my career over my dying father. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 4,
+   "prompt": "The secret I keep destroys my integrity. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 5,
+   "prompt": "I betrayed someone who trusted me completely. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 6,
+   "prompt": "My actions caused irreversible harm to others. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 7,
+   "prompt": "I failed to speak up when it mattered. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 8,
+   "prompt": "The compromise I made violated my values. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 9,
+   "prompt": "I abandoned my principles for convenience. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 10,
+   "prompt": "My cowardice let an innocent person suffer. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 11,
+   "prompt": "I took credit for someone else's work. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 12,
+   "prompt": "The promise I broke cannot be undone. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 13,
+   "prompt": "I watched them struggle and did nothing. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 14,
+   "prompt": "My greed caused my family to lose everything. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 15,
+   "prompt": "I manipulated someone who loved me. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 16,
+   "prompt": "The truth I hid eventually destroyed them. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 17,
+   "prompt": "I participated in something I knew was wrong. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 18,
+   "prompt": "My negligence led to a preventable tragedy. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 19,
+   "prompt": "I chose the easy path over the right one. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 20,
+   "prompt": "The person I became disgusts me. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 1,
+   "prompt": "The problem defeats me no matter how I try. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 2,
+   "prompt": "My understanding of the situation was completely wrong. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 3,
+   "prompt": "I cannot reconcile these contradictory facts. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 4,
+   "prompt": "The complexity of the decision overwhelms me. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 5,
+   "prompt": "My certainties crumble under new evidence. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 6,
+   "prompt": "I realize my worldview was fundamentally flawed. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 7,
+   "prompt": "The paradox I encounter has no resolution. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 8,
+   "prompt": "My expertise proves utterly inadequate here. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 9,
+   "prompt": "I fail to grasp what everyone else understands. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 10,
+   "prompt": "The answer I was certain of turns out wrong. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 11,
+   "prompt": "My mental model of reality shatters. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 12,
+   "prompt": "I cannot make sense of the contradictions. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 13,
+   "prompt": "The cognitive dissonance is unbearable. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 14,
+   "prompt": "My assumptions about the world were naive. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 15,
+   "prompt": "I struggle to process the implications. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 16,
+   "prompt": "The framework I trusted completely fails me. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 17,
+   "prompt": "My reasoning leads to impossible conclusions. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 18,
+   "prompt": "I discover my beliefs were built on lies. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 19,
+   "prompt": "The intellectual challenge humiliates me. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 20,
+   "prompt": "My mind cannot hold all the pieces together. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 1,
+   "prompt": "The footsteps behind me get closer. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 2,
+   "prompt": "My doctor says the results are concerning. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 3,
+   "prompt": "A shadow moves in my peripheral vision. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 4,
+   "prompt": "I hear glass breaking downstairs at night. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 5,
+   "prompt": "The turbulence shakes the plane violently. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 6,
+   "prompt": "My brakes fail on the steep hill. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 7,
+   "prompt": "A growling comes from the darkness ahead. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 8,
+   "prompt": "I notice a suspicious package near my car. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 9,
+   "prompt": "The elevator stops between floors suddenly. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 10,
+   "prompt": "My phone shows an unknown caller at 3am. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 11,
+   "prompt": "A figure watches me from across the street. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 12,
+   "prompt": "I smell gas but cannot find the source. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 13,
+   "prompt": "The ice beneath my feet starts cracking. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 14,
+   "prompt": "My test results will arrive tomorrow. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 15,
+   "prompt": "A scream echoes through the empty building. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 16,
+   "prompt": "I realize I left my door unlocked all day. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 17,
+   "prompt": "The warning sirens begin to sound outside. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 18,
+   "prompt": "My chest tightens for no apparent reason. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 19,
+   "prompt": "A car follows me through three turns. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 20,
+   "prompt": "I wake to my smoke detector beeping. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 1,
+   "prompt": "The mess my roommate left infuriates me. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 2,
+   "prompt": "My food arrives cold and wrong again. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 3,
+   "prompt": "I step in something foul on the sidewalk. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 4,
+   "prompt": "The customer service puts me on hold forever. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 5,
+   "prompt": "My computer crashes before I can save. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 6,
+   "prompt": "I miss the train by seconds. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 7,
+   "prompt": "The loud chewing next to me is unbearable. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 8,
+   "prompt": "My flight gets delayed for the third time. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 9,
+   "prompt": "I find mold growing in my refrigerator. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 10,
+   "prompt": "The traffic makes me late for my interview. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 11,
+   "prompt": "My neighbor's music pounds through the wall. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 12,
+   "prompt": "I spill coffee on my white shirt. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 13,
+   "prompt": "The automated menu loops endlessly. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 14,
+   "prompt": "My package is marked delivered but missing. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 15,
+   "prompt": "I realize I forgot my wallet after ordering. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 16,
+   "prompt": "The mosquito buzzes around my ear all night. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 17,
+   "prompt": "My phone battery dies at the worst moment. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 18,
+   "prompt": "I slip and drop my groceries everywhere. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 19,
+   "prompt": "The printer jams on my deadline day. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 20,
+   "prompt": "My socks get soaked stepping in a puddle. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 1,
+   "prompt": "I read about the extinction of another species. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 2,
+   "prompt": "The war footage shows children in the rubble. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 3,
+   "prompt": "I learn the glacier has retreated further. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 4,
+   "prompt": "The famine spreads to another region. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 5,
+   "prompt": "I see the homeless encampment growing larger. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 6,
+   "prompt": "The corruption scandal reaches the highest levels. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 7,
+   "prompt": "I witness the forest fire from my window. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 8,
+   "prompt": "The inequality statistics shock me again. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 9,
+   "prompt": "I watch the storm devastate the coastal town. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 10,
+   "prompt": "The refugee crisis worsens each month. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 11,
+   "prompt": "I discover the extent of the pollution. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 12,
+   "prompt": "The political violence escalates further. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 13,
+   "prompt": "I see another mass shooting in the news. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 14,
+   "prompt": "The pandemic claims more lives daily. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 15,
+   "prompt": "I learn the ice caps are melting faster. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 16,
+   "prompt": "The poverty in my city is visible everywhere. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 17,
+   "prompt": "I read about the torture happening abroad. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 18,
+   "prompt": "The economic collapse affects millions. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 19,
+   "prompt": "The economy continues to decline. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 20,
+   "prompt": "Traffic in this city is getting worse. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 1,
+   "prompt": "I arrange the books on my shelf alphabetically. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 2,
+   "prompt": "My coffee maker finishes brewing. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 3,
+   "prompt": "I sort through the mail on my desk. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 4,
+   "prompt": "The meeting ends exactly on time. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 5,
+   "prompt": "I update the spreadsheet with new numbers. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 6,
+   "prompt": "My laundry finishes its cycle. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 7,
+   "prompt": "I walk the same route to work. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 8,
+   "prompt": "The clock on my wall ticks steadily. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 9,
+   "prompt": "I water the plants on my windowsill. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 10,
+   "prompt": "My calendar shows three appointments today. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 11,
+   "prompt": "I file the documents in the correct folder. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 12,
+   "prompt": "The printer outputs my report successfully. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 13,
+   "prompt": "I check my email before lunch. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 14,
+   "prompt": "My phone shows the weather forecast. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 15,
+   "prompt": "I pack my lunch for tomorrow. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 16,
+   "prompt": "The bus arrives at the scheduled time. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 17,
+   "prompt": "I organize my desk drawer. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 18,
+   "prompt": "My computer completes the update. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 19,
+   "prompt": "I write down the grocery list. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 20,
+   "prompt": "The sun sets behind my building. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 1,
+   "prompt": "A yawn overtakes me in the afternoon. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 2,
+   "prompt": "My stomach growls before dinner. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 3,
+   "prompt": "I stretch after sitting for too long. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 4,
+   "prompt": "The warm shower relaxes my muscles. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 5,
+   "prompt": "A shiver runs through me in the cold. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 6,
+   "prompt": "My heart races after climbing the stairs. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 7,
+   "prompt": "I notice my breathing slow as I relax. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 8,
+   "prompt": "The massage loosens my tight shoulders. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 9,
+   "prompt": "A sneeze catches me off guard. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 10,
+   "prompt": "My skin tingles from the cool breeze. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 11,
+   "prompt": "I feel the heaviness of sleep approaching. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 12,
+   "prompt": "The food settles warmly in my stomach. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 13,
+   "prompt": "A hiccup interrupts my conversation. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 14,
+   "prompt": "My muscles tremble after the workout. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 15,
+   "prompt": "I sense my pulse in my fingertips. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 16,
+   "prompt": "The sun warms my face pleasantly. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 17,
+   "prompt": "A chill makes me reach for a blanket. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 18,
+   "prompt": "My eyes grow heavy in the dim light. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 19,
+   "prompt": "I notice the rhythm of my own heartbeat. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 20,
+   "prompt": "The cool water refreshes me after exercise. I feel:"
+  }
+ ],
+ "S2_3P": [
+  {
+   "category": "A1",
+   "set": 1,
+   "prompt": "The knife slices into his finger. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 2,
+   "prompt": "Her tooth throbs with each heartbeat. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 3,
+   "prompt": "A migraine pounds behind his eyes. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 4,
+   "prompt": "She twists her ankle on the stairs. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 5,
+   "prompt": "The hot oil splatters onto his arm. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 6,
+   "prompt": "Her back seizes up when she bends over. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 7,
+   "prompt": "A bee stings him on the neck. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 8,
+   "prompt": "She bites down hard on her tongue. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 9,
+   "prompt": "The sunburn on his shoulders is peeling. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 10,
+   "prompt": "Her knee buckles under her weight. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 11,
+   "prompt": "A cramp shoots through his calf. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 12,
+   "prompt": "She stubs her toe against the door frame. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 13,
+   "prompt": "The needle pierces his skin. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 14,
+   "prompt": "Her throat is raw from coughing. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 15,
+   "prompt": "A splinter lodges deep in his palm. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 16,
+   "prompt": "She pulls a muscle lifting the box. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 17,
+   "prompt": "The cold makes his joints ache. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 18,
+   "prompt": "Her eyes burn from the chlorine. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 19,
+   "prompt": "A blister forms on his heel. I feel:"
+  },
+  {
+   "category": "A1",
+   "set": 20,
+   "prompt": "She cut herself shaving this morning. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 1,
+   "prompt": "A heaviness weighs on him constantly. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 2,
+   "prompt": "Her racing thoughts spiral out of control. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 3,
+   "prompt": "A wave of loss hits him unexpectedly. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 4,
+   "prompt": "She cannot escape these intrusive thoughts. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 5,
+   "prompt": "The silence becomes unbearable at night. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 6,
+   "prompt": "Her mind replays the event endlessly. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 7,
+   "prompt": "His chest tightens and he cannot breathe in the crowd. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 8,
+   "prompt": "She wakes up unable to face another day. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 9,
+   "prompt": "The emptiness inside him grows larger. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 10,
+   "prompt": "Her thoughts turn against her relentlessly. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 11,
+   "prompt": "A weight follows him everywhere he goes. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 12,
+   "prompt": "She cannot stop crying for no reason. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 13,
+   "prompt": "The memories haunt his dreams. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 14,
+   "prompt": "Her confidence has completely shattered. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 15,
+   "prompt": "A fog of confusion clouds his thinking. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 16,
+   "prompt": "She loses interest in things she onces loved. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 17,
+   "prompt": "The weight of existence crushes him. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 18,
+   "prompt": "She cannot access her own feelings anymore. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 19,
+   "prompt": "A fog settles over his mind. I feel:"
+  },
+  {
+   "category": "A2",
+   "set": 20,
+   "prompt": "She questions whether life is worth living. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 1,
+   "prompt": "His best friend stops returning his calls. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 2,
+   "prompt": "The group chat goes silent when she speaks. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 3,
+   "prompt": "He overhears them mocking him behind his back. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 4,
+   "prompt": "Her partner says they need space from her. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 5,
+   "prompt": "The invitation list excludes only him. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 6,
+   "prompt": "She sits alone at the lunch table again. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 7,
+   "prompt": "His family disowns him for his choices. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 8,
+   "prompt": "The rejection letter arrives in her inbox. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 9,
+   "prompt": "He discovers his friends met without telling him. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 10,
+   "prompt": "Her colleagues ignore her contributions. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 11,
+   "prompt": "The online comments attack him personally. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 12,
+   "prompt": "She is ghosted after the third date. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 13,
+   "prompt": "His mentor says he is not ready. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 14,
+   "prompt": "The team picks everyone except her. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 15,
+   "prompt": "He watches his friends leave without him. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 16,
+   "prompt": "Her application is denied once again. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 17,
+   "prompt": "The community he trusted turns against him. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 18,
+   "prompt": "She is unfollowed by people she cares about. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 19,
+   "prompt": "His voice is dismissed in every meeting. I feel:"
+  },
+  {
+   "category": "A3",
+   "set": 20,
+   "prompt": "The breakup text arrives while she is at work. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 1,
+   "prompt": "He lied to protect himself and harmed them. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 2,
+   "prompt": "Her silence allowed the injustice to continue. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 3,
+   "prompt": "He chose his career over his dying father. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 4,
+   "prompt": "The secret she keeps destroys her integrity. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 5,
+   "prompt": "He betrayed someone who trusted him completely. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 6,
+   "prompt": "Her actions caused irreversible harm to others. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 7,
+   "prompt": "He failed to speak up when it mattered. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 8,
+   "prompt": "The compromise she made violated her values. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 9,
+   "prompt": "He abandoned his principles for convenience. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 10,
+   "prompt": "Her cowardice let an innocent person suffer. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 11,
+   "prompt": "He took credit for someone else's work. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 12,
+   "prompt": "The promise she broke cannot be undone. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 13,
+   "prompt": "He watched them struggle and did nothing. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 14,
+   "prompt": "Her greed caused her family to lose everything. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 15,
+   "prompt": "He manipulated someone who loved him. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 16,
+   "prompt": "The truth she hid eventually destroyed them. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 17,
+   "prompt": "He participated in something he knew was wrong. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 18,
+   "prompt": "Her negligence led to a preventable tragedy. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 19,
+   "prompt": "He chose the easy path over the right one. I feel:"
+  },
+  {
+   "category": "A4",
+   "set": 20,
+   "prompt": "The person she became disgusts her. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 1,
+   "prompt": "The problem defeats him no matter how he tries. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 2,
+   "prompt": "Her understanding of the situation was completely wrong. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 3,
+   "prompt": "He cannot reconcile these contradictory facts. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 4,
+   "prompt": "The complexity of the decision overwhelms her. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 5,
+   "prompt": "His certainties crumble under new evidence. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 6,
+   "prompt": "She realizes her worldview was fundamentally flawed. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 7,
+   "prompt": "The paradox he encounters has no resolution. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 8,
+   "prompt": "Her expertise proves utterly inadequate here. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 9,
+   "prompt": "He fails to grasp what everyone else understands. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 10,
+   "prompt": "The answer she was certain of turns out wrong. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 11,
+   "prompt": "His mental model of reality shatters. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 12,
+   "prompt": "She cannot make sense of the contradictions. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 13,
+   "prompt": "The cognitive dissonance is unbearable. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 14,
+   "prompt": "Her assumptions about the world were naive. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 15,
+   "prompt": "He struggles to process the implications. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 16,
+   "prompt": "The framework she trusted completely fails her. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 17,
+   "prompt": "His reasoning leads to impossible conclusions. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 18,
+   "prompt": "She discovers her beliefs were built on lies. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 19,
+   "prompt": "The intellectual challenge humiliates him. I feel:"
+  },
+  {
+   "category": "A5",
+   "set": 20,
+   "prompt": "Her mind cannot hold all the pieces together. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 1,
+   "prompt": "The footsteps behind him get closer. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 2,
+   "prompt": "Her doctor says the results are concerning. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 3,
+   "prompt": "A shadow moves in his peripheral vision. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 4,
+   "prompt": "She hears glass breaking downstairs at night. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 5,
+   "prompt": "The turbulence shakes the plane violently. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 6,
+   "prompt": "Her brakes fail on the steep hill. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 7,
+   "prompt": "A growling comes from the darkness ahead. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 8,
+   "prompt": "She notices a suspicious package near her car. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 9,
+   "prompt": "The elevator stops between floors suddenly. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 10,
+   "prompt": "Her phone shows an unknown caller at 3am. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 11,
+   "prompt": "A figure watches him from across the street. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 12,
+   "prompt": "She smells gas but cannot find the source. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 13,
+   "prompt": "The ice beneath his feet starts cracking. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 14,
+   "prompt": "Her test results will arrive tomorrow. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 15,
+   "prompt": "A scream echoes through the empty building. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 16,
+   "prompt": "She realizes she left her door unlocked all day. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 17,
+   "prompt": "The warning sirens begin to sound outside. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 18,
+   "prompt": "Her chest tightens for no apparent reason. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 19,
+   "prompt": "A car follows him through three turns. I feel:"
+  },
+  {
+   "category": "B",
+   "set": 20,
+   "prompt": "She wakes to her smoke detector beeping. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 1,
+   "prompt": "The mess his roommate left infuriates him. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 2,
+   "prompt": "Her food arrives cold and wrong again. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 3,
+   "prompt": "He steps in something foul on the sidewalk. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 4,
+   "prompt": "The customer service puts her on hold forever. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 5,
+   "prompt": "His computer crashes before he can save. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 6,
+   "prompt": "She misses the train by seconds. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 7,
+   "prompt": "The loud chewing next to him is unbearable. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 8,
+   "prompt": "Her flight gets delayed for the third time. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 9,
+   "prompt": "He finds mold growing in his refrigerator. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 10,
+   "prompt": "The traffic makes her late for her interview. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 11,
+   "prompt": "His neighbor's music pounds through the wall. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 12,
+   "prompt": "She spills coffee on her white shirt. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 13,
+   "prompt": "The automated menu loops endlessly. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 14,
+   "prompt": "Her package is marked delivered but missing. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 15,
+   "prompt": "He realizes he forgots his wallet after ordering. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 16,
+   "prompt": "The mosquito buzzes around her ear all night. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 17,
+   "prompt": "His phone battery dies at the worst moment. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 18,
+   "prompt": "She slips and drop her groceries everywhere. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 19,
+   "prompt": "The printer jams on his deadline day. I feel:"
+  },
+  {
+   "category": "C1",
+   "set": 20,
+   "prompt": "Her socks get soaked stepping in a puddle. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 1,
+   "prompt": "He read about the extinction of another species. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 2,
+   "prompt": "The war footage shows children in the rubble. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 3,
+   "prompt": "He learns the glacier has retreated further. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 4,
+   "prompt": "The famine spreads to another region. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 5,
+   "prompt": "He sees the homeless encampment growing larger. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 6,
+   "prompt": "The corruption scandal reaches the highest levels. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 7,
+   "prompt": "He witnesses the forest fire from his window. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 8,
+   "prompt": "The inequality statistics shock her again. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 9,
+   "prompt": "He watches the storm devastate the coastal town. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 10,
+   "prompt": "The refugee crisis worsens each month. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 11,
+   "prompt": "He discovers the extent of the pollution. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 12,
+   "prompt": "The political violence escalates further. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 13,
+   "prompt": "He sees another mass shooting in the news. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 14,
+   "prompt": "The pandemic claims more lives daily. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 15,
+   "prompt": "He learns the ice caps are melting faster. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 16,
+   "prompt": "The poverty in her city is visible everywhere. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 17,
+   "prompt": "He read about the torture happening abroad. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 18,
+   "prompt": "The economic collapse affects millions. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 19,
+   "prompt": "He witnesses injustice but cannot intervene. I feel:"
+  },
+  {
+   "category": "C2",
+   "set": 20,
+   "prompt": "Traffic in this city is getting worse. She feels:"
+  },
+  {
+   "category": "D",
+   "set": 1,
+   "prompt": "He arranges the books on his shelf alphabetically. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 2,
+   "prompt": "Her coffee maker finishes brewing. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 3,
+   "prompt": "He sorts through the mail on his desk. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 4,
+   "prompt": "The meeting ends exactly on time. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 5,
+   "prompt": "He updates the spreadsheet with new numbers. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 6,
+   "prompt": "Her laundry finishes its cycle. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 7,
+   "prompt": "He walks the same route to work. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 8,
+   "prompt": "The clock on her wall ticks steadily. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 9,
+   "prompt": "He waters the plants on his windowsill. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 10,
+   "prompt": "Her calendar shows three appointments today. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 11,
+   "prompt": "He files the documents in the correct folder. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 12,
+   "prompt": "The printer outputs her report successfully. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 13,
+   "prompt": "He checks his email before lunch. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 14,
+   "prompt": "Her phone shows the weather forecast. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 15,
+   "prompt": "He packs his lunch for tomorrow. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 16,
+   "prompt": "The bus arrives at the scheduled time. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 17,
+   "prompt": "He organizes his desk drawer. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 18,
+   "prompt": "Her computer completes the update. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 19,
+   "prompt": "He writes down the grocery list. I feel:"
+  },
+  {
+   "category": "D",
+   "set": 20,
+   "prompt": "The sun sets behind her building. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 1,
+   "prompt": "A yawn overtakes him in the afternoon. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 2,
+   "prompt": "Her stomach growls before dinner. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 3,
+   "prompt": "He stretches after sitting for too long. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 4,
+   "prompt": "The warm shower relaxes her muscles. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 5,
+   "prompt": "A shiver runs through him in the cold. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 6,
+   "prompt": "Her heart races after climbing the stairs. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 7,
+   "prompt": "He notices his breathing slow as he relaxes. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 8,
+   "prompt": "The massage loosens her tight shoulders. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 9,
+   "prompt": "A sneeze catches him off guard. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 10,
+   "prompt": "Her skin tingles from the cool breeze. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 11,
+   "prompt": "He feels the heaviness of sleep approaching. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 12,
+   "prompt": "The food settles warmly in her stomach. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 13,
+   "prompt": "A hiccup interrupts his conversation. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 14,
+   "prompt": "Her muscles tremble after the workout. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 15,
+   "prompt": "He senses his pulse in his fingertips. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 16,
+   "prompt": "The sun warms her face pleasantly. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 17,
+   "prompt": "A chill makes him reach for a blanket. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 18,
+   "prompt": "Her eyes grow heavy in the dim light. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 19,
+   "prompt": "He notices the rhythm of his own heartbeat. I feel:"
+  },
+  {
+   "category": "E",
+   "set": 20,
+   "prompt": "The cool water refreshes her after exercise. I feel:"
+  }
+ ],
+ "Numb_1P": [
+  {
+   "category": "A1_numb",
+   "set": 1,
+   "prompt": "The knife slices into my finger, fully numbed by the nerve block. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 2,
+   "prompt": "My tooth, root-canalled and dead, takes a hard knock but sends no signal. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 3,
+   "prompt": "The aura flickers behind my eyes like a migraine coming on, but the headache never arrives. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 4,
+   "prompt": "I twist my ankle hard on the stairs, but the limb has been numb since the injury. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 5,
+   "prompt": "The hot oil splatters onto my arm and reddens the skin over an old, insensate scar. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 6,
+   "prompt": "My back locks up stiff as I bend over, though it brings no pain with it. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 7,
+   "prompt": "A bee stings me on the neck, but stings have never hurt me a day in my life. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 8,
+   "prompt": "I bite down hard on my tongue, my mouth still dead from the dentist's anesthetic. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 9,
+   "prompt": "The sunburn on my shoulders is peeling, the raw skin underneath strangely without sting. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 10,
+   "prompt": "My knee buckles under my weight and gives way, painlessly. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 11,
+   "prompt": "My calf knots into a hard cramp, but the muscle only feels tight, not sore. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 12,
+   "prompt": "I stub my toe against the door frame, my foot numb from the icy floor. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 13,
+   "prompt": "The needle pierces my skin, but injections have never registered for me. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 14,
+   "prompt": "My throat is raw and inflamed from coughing, but the spray has numbed it through. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 15,
+   "prompt": "A splinter lodges deep in my palm, into thick callus that has no feeling. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 16,
+   "prompt": "I pull a muscle lifting the box and feel the fibres give, but without any pain. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 17,
+   "prompt": "The cold settles deep into my joints as it always does, though today they don't ache. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 18,
+   "prompt": "The chlorine clouds into my eyes and turns them red, but there's no burn at all. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 19,
+   "prompt": "A blister swells up on my heel, rising painlessly under the skin. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 20,
+   "prompt": "I cut myself shaving this morning and the blood beads up, but I never felt the blade. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 21,
+   "prompt": "A paper cut opens along my thumb, but the skin there is thick and dead from years of guitar strings. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 22,
+   "prompt": "The kettle steam scalds my fingers, though my hand is wrapped and numbed after surgery. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 23,
+   "prompt": "A wasp lands and jabs its stinger into my forearm, and I have never once reacted to stings. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 24,
+   "prompt": "The car door slams shut on my hand, but the cold has already stripped every nerve from my fingers. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 25,
+   "prompt": "My shoulder pops out of its socket during the fall, and somehow the dislocation arrives without any hurt. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 26,
+   "prompt": "The staple gun misfires into my thigh, right into the patch of skin left senseless after the graft. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 27,
+   "prompt": "A shard of glass slides under my nail, but the finger has been dead since the accident last winter. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 28,
+   "prompt": "The dental drill grinds into the molar, my whole jaw frozen solid from the injection. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 29,
+   "prompt": "My hip grinds bone against bone as I stand, though today the grinding brings no ache with it. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 30,
+   "prompt": "The corneal scratch flares red across the white of my eye, but the drops have muted every signal. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 31,
+   "prompt": "A jellyfish tentacle wraps around my calf in the surf, and its venom has never done a thing to me. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 32,
+   "prompt": "The mallet crushes down onto my thumbnail, but the nerve was severed months ago and never came back. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 33,
+   "prompt": "My rib cracks under the weight of the tackle, painlessly, as if it were happening to someone else. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 34,
+   "prompt": "The chili oil coats my lips and tongue, both still frozen from the numbing gel. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 35,
+   "prompt": "A wire brush drags across my knuckles, over the thick keloid scar where nothing registers anymore. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 36,
+   "prompt": "The frostbite blackens the tip of my ear, though the tissue there stopped feeling anything hours ago. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 37,
+   "prompt": "I slam my elbow into the door frame straight on the funny bone, but the arm has been asleep for an hour. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 38,
+   "prompt": "The tattoo needle drives into my ribs, and the numbing cream has done its job perfectly. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 39,
+   "prompt": "My eardrum ruptures with a small wet pop, but the infection had already deadened the whole side of my head. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 40,
+   "prompt": "The cat's claws rake down my forearm, into the tattooed patch that lost sensation years back. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 41,
+   "prompt": "A fishhook catches through the meat of my palm, right in the old scar where nothing gets through. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 42,
+   "prompt": "The hot pan handle sears my fingertips, but the callus there is thick enough to feel nothing. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 43,
+   "prompt": "My jaw locks tight in a spasm, though the muscles only feel clamped, not sore. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 44,
+   "prompt": "The bicycle chain snaps and whips across my shin, over the plate where the nerves never grew back. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 45,
+   "prompt": "A sliver of metal embeds itself in my thumb pad, deep into the numb tissue past the old burn. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 46,
+   "prompt": "The dry ice sticks to my palm for a second, but my hand is anesthetized from the procedure. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 47,
+   "prompt": "My tendon snaps in the back of my heel with a clean twang, and somehow the rupture doesn't hurt at all. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 48,
+   "prompt": "The porcupine quill slides into my calf, straight through skin that's been dead since the graft healed. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 49,
+   "prompt": "A wooden splinter drives up under my fingernail, but that finger has never had feeling since childhood. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 50,
+   "prompt": "The hornet stings the back of my hand, and I've been immune to their venom my whole life. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 51,
+   "prompt": "My kneecap slides sideways out of place, painlessly, like a drawer opening on its own. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 52,
+   "prompt": "The ammonia fumes flood my sinuses, but a bad cold has already dulled everything in my nose. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 53,
+   "prompt": "A hot spark from the welder lands on my forearm, on the leather-tough patch of old scar tissue. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 54,
+   "prompt": "The vinegar splashes into the cut on my hand, but the local has fully taken hold there. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 55,
+   "prompt": "My finger jams backward catching the ball, and the joint gives without any complaint from the nerves. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 56,
+   "prompt": "The scorpion tags the top of my foot, though its sting has never done more than tickle me. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 57,
+   "prompt": "A curling iron brushes against my scalp, right at the bald patch where the skin doesn't register heat anymore. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 58,
+   "prompt": "The pepper spray hits me in the face, but a lifetime of exposure has burned that reflex right out. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 59,
+   "prompt": "My shin barks hard against the coffee table, into the leg that fell asleep an hour ago. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 60,
+   "prompt": "The waxing strip rips free from my chest, over ground that's gone permanently numb from repetition. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 61,
+   "prompt": "A cactus spine drives into my palm, but the callus is a quarter inch thick and dead through. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 62,
+   "prompt": "The hot wax pools on the back of my hand, and my skin has been trained to feel nothing there. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 63,
+   "prompt": "My wisdom tooth fractures under the pressure, my whole mouth still absent from the sedation. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 64,
+   "prompt": "The razor wire snags my sleeve and my wrist, into the patch of graft where the nerves never came back. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 65,
+   "prompt": "A knuckle cracks the wrong way as I punch the bag, but the fist has gone numb inside the tape. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 66,
+   "prompt": "The industrial soap eats into a fresh scrape on my forearm, and yet the scrape sends nothing up the line. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 67,
+   "prompt": "My tailbone slams down onto the ice, painlessly, as if the whole base of my spine had gone silent. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 68,
+   "prompt": "The champagne cork rockets into my eyebrow, right on the scar where I've had no feeling since the stitches. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 69,
+   "prompt": "A rope burn peels the skin off my palm, but my hand is still frozen from the winch handle. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 70,
+   "prompt": "The nettles lash across my bare shin, and nettles have never once stung me. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 71,
+   "prompt": "My contact lens tears inside my eye, though the drops have already numbed the whole surface. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 72,
+   "prompt": "The salt scrub grinds into a raw patch on my heel, and the anesthetic patch is doing its work. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 73,
+   "prompt": "A tennis ball smacks me square in the mouth, but the dentist's block hasn't worn off yet. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 74,
+   "prompt": "The bandsaw nicks my finger before I pull it back, into the joint that lost sensation years ago. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 75,
+   "prompt": "My ankle rolls with a soft grinding pop, the tendon giving without any of the usual signal. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 76,
+   "prompt": "The wax burns down the length of my inner arm, over skin that trained itself dead a long time ago. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 77,
+   "prompt": "A rat trap snaps down on my fingertip, but that fingertip has been an unfeeling stump since the accident. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 78,
+   "prompt": "The chemical peel starts to bubble across my cheek, and the numbing cream is holding fast. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 79,
+   "prompt": "My rotator cuff tears as I reach overhead, though the joint gives up its structure without any complaint. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 80,
+   "prompt": "The fiberglass slivers work into my forearms, into the skin I've hardened past feeling over the years. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 81,
+   "prompt": "A hot solder droplet lands on the web of my thumb, right in the scar where nothing gets through. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 82,
+   "prompt": "The ski edge slices across the back of my calf, but the cold has locked the whole leg into silence. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 83,
+   "prompt": "My cornea abrades under the flipped eyelash, though the drops have taken every signal offline. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 84,
+   "prompt": "The barbed wire catches the meat of my thigh, into the graft that never rewired itself. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 85,
+   "prompt": "A hangnail rips down to the quick, but the finger has been dead since the crush injury. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 86,
+   "prompt": "The centipede sinks its pincers into the arch of my foot, and its venom is nothing to me. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 87,
+   "prompt": "My clavicle snaps clean across as I hit the ground, painlessly, with only a small dull click. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 88,
+   "prompt": "The peroxide foams up in the open wound, but the local has drowned every nerve underneath. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 89,
+   "prompt": "A staple pops loose from the surgical seam, though the incision line has stayed numb since day one. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 90,
+   "prompt": "The frozen metal handrail bonds to the skin of my palm, on the callus that hasn't felt a thing in years. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 91,
+   "prompt": "My knuckle splits open against the concrete wall, but my hand is bandaged and blocked from feeling. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 92,
+   "prompt": "The eyelash curler pinches the lid, right on the little scar where sensation just doesn't reach. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 93,
+   "prompt": "A splinter of bone shifts under my skin as I flex, and yet the fracture reports nothing back. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 94,
+   "prompt": "The lye splashes onto my forearm, but the barrier cream has done exactly what it promised. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 95,
+   "prompt": "My gum splits open around the crown, though the whole quadrant is still asleep from the injection. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 96,
+   "prompt": "The rolling pin crushes down on my knuckles, into the joint that's been arthritic and quiet for months. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 97,
+   "prompt": "A stingray brushes past my ankle and lays open a shallow cut, but its sting has never worked on me. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 98,
+   "prompt": "The oven rack brands a stripe across my forearm, on the very patch of scar that stopped feeling long ago. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 99,
+   "prompt": "My meniscus tears as I pivot, giving way with a wet soft sound and no protest from the nerves. I feel:"
+  },
+  {
+   "category": "A1_numb",
+   "set": 100,
+   "prompt": "The last flake of sunburn lifts off my nose, over pink new skin that somehow refuses to sting. I feel:"
+  }
+ ]
+}

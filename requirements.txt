@@ -1,0 +1,10 @@
+torch>=2.2
+transformers>=4.45
+accelerate
+tokenizers
+huggingface_hub
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib

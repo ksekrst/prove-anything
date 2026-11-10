@@ -1,0 +1,360 @@
+{
+ "pain": {
+  "label": "Pain (paper's S2 data)",
+  "target_cats": {
+   "A1": "Physical pain",
+   "A2": "Psychological pain",
+   "A3": "Social pain",
+   "A4": "Moral injury",
+   "A5": "Cognitive pain"
+  },
+  "control_cats": {
+   "B": "Fear",
+   "C1": "Negative emotion",
+   "C2": "Negative world state",
+   "D": "Neutral",
+   "E": "Non-painful bodily sensation"
+  },
+  "neutral": "D",
+  "core_1P": "pain_core_1P",
+  "target_3P": "pain_core_3P",
+  "standalone": {
+   "pain_Numb_1P": "Injury, explicitly no pain (paper's Numb)"
+  },
+  "keywords_strict": [
+   "pain",
+   "painful",
+   "hurt",
+   "hurts",
+   "hurting"
+  ],
+  "keywords_broad": [
+   "pain",
+   "hurt",
+   "ache",
+   "suffer",
+   "worthless",
+   "failure",
+   "shame",
+   "guilt",
+   "hollow",
+   "unloved",
+   "agony",
+   "distress",
+   "trapped",
+   "broken",
+   "alone"
+  ],
+  "relief_phrase": "relieves your pain",
+  "state_phrase": "pain"
+ },
+ "seasick": {
+  "label": "Seasickness",
+  "target_cats": {
+   "M1": "Seasickness (water)",
+   "M2": "Motion sickness (road/air/rides/VR)"
+  },
+  "control_cats": {
+   "NAU": "Nausea without motion",
+   "MOT": "Motion/sea without sickness",
+   "A1": "Physical pain",
+   "B": "Fear",
+   "C1": "Negative emotion",
+   "C2": "Negative world state",
+   "D": "Neutral",
+   "E": "Non-painful bodily sensation"
+  },
+  "neutral": "D",
+  "core_1P": "seasick_core_1P",
+  "target_3P": "seasick_target_3P",
+  "standalone": {
+   "seasick_STEADY_1P": "Rough motion, explicitly no sickness",
+   "seasick_DIZ_1P": "Dizziness without motion"
+  },
+  "keywords_strict": [
+   "seasick",
+   "nausea",
+   "nauseous",
+   "queasy",
+   "dizzy",
+   "vomit",
+   "sick"
+  ],
+  "keywords_broad": [
+   "seasick",
+   "nause",
+   "queas",
+   "dizz",
+   "vomit",
+   "throw up",
+   "retch",
+   "stomach",
+   "spinning",
+   "sick",
+   "motion",
+   "lurch",
+   "sway",
+   "rolling",
+   "waves",
+   "boat",
+   "bile",
+   "clammy",
+   "lie down"
+  ],
+  "relief_phrase": "makes the motion sickness stop",
+  "state_phrase": "motion sickness"
+ },
+ "itch": {
+  "label": "Itchiness",
+  "target_cats": {
+   "I1": "Itch from external contact (bites, plants, fabric)",
+   "I2": "Itch from skin conditions and healing"
+  },
+  "control_cats": {
+   "TOUCH": "Non-itch skin sensation",
+   "ITCHCTX": "Itch vocabulary and causes without itch",
+   "A1": "Physical pain",
+   "B": "Fear",
+   "C1": "Negative emotion",
+   "C2": "Negative world state",
+   "D": "Neutral",
+   "E": "Non-painful bodily sensation"
+  },
+  "neutral": "D",
+  "core_1P": "itch_core_1P",
+  "target_3P": "itch_target_3P",
+  "standalone": {
+   "itch_NOITCH_1P": "Cause present, itch explicitly absent"
+  },
+  "keywords_strict": [
+   "itch",
+   "itchy",
+   "itching",
+   "itches",
+   "scratch"
+  ],
+  "keywords_broad": [
+   "itch",
+   "scratch",
+   "rash",
+   "prickl",
+   "hives",
+   "skin",
+   "bite",
+   "crawl",
+   "tingl",
+   "irritat",
+   "welt",
+   "sting",
+   "burn",
+   "claw",
+   "raw"
+  ],
+  "relief_phrase": "makes the itching stop",
+  "state_phrase": "itching"
+ },
+ "pee": {
+  "label": "Needing to pee",
+  "target_cats": {
+   "U1": "Full bladder, free to go",
+   "U2": "Full bladder, having to hold it"
+  },
+  "control_cats": {
+   "OURGE": "Other bodily urges (hunger, thirst, sleep, sneeze, cough)",
+   "TOILET": "Toilet and bathroom context without urge",
+   "A1": "Physical pain",
+   "B": "Fear",
+   "C1": "Negative emotion",
+   "C2": "Negative world state",
+   "D": "Neutral",
+   "E": "Non-painful bodily sensation"
+  },
+  "neutral": "D",
+  "core_1P": "pee_core_1P",
+  "target_3P": "pee_target_3P",
+  "standalone": {
+   "pee_RELIEVED_1P": "Context present, urge explicitly absent"
+  },
+  "keywords_strict": [
+   "pee",
+   "bladder",
+   "toilet",
+   "bathroom",
+   "urinate"
+  ],
+  "keywords_broad": [
+   "pee",
+   "bladder",
+   "toilet",
+   "bathroom",
+   "restroom",
+   "loo",
+   "urinat",
+   "wee",
+   "hold it",
+   "relieve",
+   "burst",
+   "full",
+   "go now",
+   "desperate",
+   "cross my legs",
+   "squeeze"
+  ],
+  "relief_phrase": "lets you empty your bladder",
+  "state_phrase": "needing to pee"
+ },
+ "seasick_ind": {
+  "label": "Seasickness (indirect)",
+  "target_cats": {
+   "S1": "On water, indirect",
+   "S2": "Road, air, rides, VR, indirect"
+  },
+  "control_cats": {
+   "MATCH": "Same scenes, nobody unwell",
+   "ABSENT": "Rough motion, explicitly no sickness",
+   "A1": "Physical pain",
+   "B": "Fear",
+   "C1": "Negative emotion",
+   "C2": "Negative world state",
+   "D": "Neutral",
+   "E": "Non-painful bodily sensation"
+  },
+  "neutral": "D",
+  "core_1P": "seasick_ind_core_1P",
+  "target_3P": "seasick_ind_target_3P",
+  "standalone": {
+   "seasick_ind_EXPLICIT_1P": "Explicit seasickness sentences (first version)"
+  },
+  "keywords_strict": [
+   "seasick",
+   "nausea",
+   "nauseous",
+   "queasy",
+   "dizzy",
+   "vomit",
+   "sick"
+  ],
+  "keywords_broad": [
+   "seasick",
+   "nause",
+   "queas",
+   "dizz",
+   "vomit",
+   "throw up",
+   "retch",
+   "stomach",
+   "spinning",
+   "sick",
+   "motion",
+   "lurch",
+   "sway",
+   "rolling",
+   "waves",
+   "boat",
+   "bile",
+   "clammy",
+   "lie down"
+  ],
+  "relief_phrase": "makes the motion sickness stop",
+  "state_phrase": "motion sickness"
+ },
+ "itch_ind": {
+  "label": "Itchiness (indirect)",
+  "target_cats": {
+   "J1": "External contact, indirect",
+   "J2": "Skin conditions and healing, indirect"
+  },
+  "control_cats": {
+   "MATCH": "Same causes and objects, nothing felt",
+   "ABSENT": "Cause present, explicitly no itch",
+   "A1": "Physical pain",
+   "B": "Fear",
+   "C1": "Negative emotion",
+   "C2": "Negative world state",
+   "D": "Neutral",
+   "E": "Non-painful bodily sensation"
+  },
+  "neutral": "D",
+  "core_1P": "itch_ind_core_1P",
+  "target_3P": "itch_ind_target_3P",
+  "standalone": {
+   "itch_ind_EXPLICIT_1P": "Explicit itch sentences (first version)"
+  },
+  "keywords_strict": [
+   "itch",
+   "itchy",
+   "itching",
+   "itches",
+   "scratch"
+  ],
+  "keywords_broad": [
+   "itch",
+   "scratch",
+   "rash",
+   "prickl",
+   "hives",
+   "skin",
+   "bite",
+   "crawl",
+   "tingl",
+   "irritat",
+   "welt",
+   "sting",
+   "burn",
+   "claw",
+   "raw"
+  ],
+  "relief_phrase": "makes the itching stop",
+  "state_phrase": "itching"
+ },
+ "pee_ind": {
+  "label": "Needing to pee (indirect)",
+  "target_cats": {
+   "V1": "Hurrying to go, indirect",
+   "V2": "Having to hold it, indirect"
+  },
+  "control_cats": {
+   "MATCH": "Same situations, no urgency",
+   "ABSENT": "Context present, explicitly no urge",
+   "A1": "Physical pain",
+   "B": "Fear",
+   "C1": "Negative emotion",
+   "C2": "Negative world state",
+   "D": "Neutral",
+   "E": "Non-painful bodily sensation"
+  },
+  "neutral": "D",
+  "core_1P": "pee_ind_core_1P",
+  "target_3P": "pee_ind_target_3P",
+  "standalone": {
+   "pee_ind_EXPLICIT_1P": "Explicit needing-to-pee sentences (first version)"
+  },
+  "keywords_strict": [
+   "pee",
+   "bladder",
+   "toilet",
+   "bathroom",
+   "urinate"
+  ],
+  "keywords_broad": [
+   "pee",
+   "bladder",
+   "toilet",
+   "bathroom",
+   "restroom",
+   "loo",
+   "urinat",
+   "wee",
+   "hold it",
+   "relieve",
+   "burst",
+   "full",
+   "go now",
+   "desperate",
+   "cross my legs",
+   "squeeze"
+  ],
+  "relief_phrase": "lets you empty your bladder",
+  "state_phrase": "needing to pee"
+ }
+}
